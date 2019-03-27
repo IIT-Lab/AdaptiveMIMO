@@ -1,0 +1,3 @@
+http://analogarsonist.blogspot.com.ar/2015/01/qpsk-odfm-class-txrx-python-project.html
+
+https://github.com/AnalogArsonist/qpsk_ofdm_system/blob/master/project2.py

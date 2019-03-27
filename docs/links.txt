@@ -1,0 +1,23 @@
+http://www.revolutionwifi.net/revolutionwifi/2015/3/how-ofdm-subcarriers-work
+
+http://www.lightwaveonline.com/articles/print/volume-18/issue-8/special-report/subcarrier-multiplexing-more-than-just-capacity-53471852.html
+
+CP explanation:
+
+http://dspillustrations.com/pages/posts/misc/the-cyclic-prefix-cp-in-ofdm.html
+
+https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-15-18770&id=297217
+
+http://www.edaboard.com/showthread.php?t=94961
+
+
+
+http://dspillustrations.com/pages/posts/misc/python-ofdm-example.html
+
+https://www.dsprelated.com/showarticle/192.php
+
+
+
+
+
+https://gist.github.com/veeresht

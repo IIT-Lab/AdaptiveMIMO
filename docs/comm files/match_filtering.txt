@@ -1,0 +1,3 @@
+https://github.com/moble/MatchedFiltering/blob/gh-pages/MatchedFiltering.ipynb
+
+http://users.camk.edu.pl/bejger/snr-periodic-signal/

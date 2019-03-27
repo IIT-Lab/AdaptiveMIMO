@@ -1,0 +1,8 @@
+http://scottwilson46.github.io/fpga/random/prbs/2014/07/06/fpga-random-prbs/
+https://programtalk.com/vs2/python/2059/rhea/rhea/cores/comm/prbs.py/
+https://github.com/mfukar/lfsr/blob/master/lfsr.py
+https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/example_LFSR.py
+
+
+LEER:
+https://www.maximintegrated.com/en/app-notes/index.mvp/id/4400
