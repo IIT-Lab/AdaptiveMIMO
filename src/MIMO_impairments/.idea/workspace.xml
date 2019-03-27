@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e96bf9be-1855-4292-bc21-72b335d1fffe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MIMO_impairments$qpsk_constelation_histogram.coverage" NAME="qpsk_constelation_histogram Coverage Results" MODIFIED="1553385332046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/src/Python/SCM_QPSK/Metrics" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$pyLMS2.coverage" NAME="pyLMS2 Coverage Results" MODIFIED="1552943655034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$equalizer_for_impairments.coverage" NAME="equalizer_for_impairments Coverage Results" MODIFIED="1552944269588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$main_mimo.coverage" NAME="main_mimo Coverage Results" MODIFIED="1553463043104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$ejemploFir.coverage" NAME="ejemploFir Coverage Results" MODIFIED="1553149288324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Utils" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$sim_fse_t2_res_err_f_SNR.coverage" NAME="sim_fse_t2_res_err_f_SNR Coverage Results" MODIFIED="1553464936990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$channel_matrix.coverage" NAME="channel_matrix Coverage Results" MODIFIED="1552507873484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$ber_test.coverage" NAME="ber_test Coverage Results" MODIFIED="1552962017874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/src/Python/SCM_QPSK/Metrics" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$MIMO_8x8.coverage" NAME="MIMO_8x8 Coverage Results" MODIFIED="1553472787748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$test_adaptive.coverage" NAME="test_adaptive Coverage Results" MODIFIED="1552680403822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$BER_simulation_fixed.coverage" NAME="BER_simulation_fixed Coverage Results" MODIFIED="1553556569177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$test_LMS.coverage" NAME="test_LMS Coverage Results" MODIFIED="1553494348679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$channel_generator.coverage" NAME="channel_generator Coverage Results" MODIFIED="1553379805879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$FIR_adaptive.coverage" NAME="FIR_adaptive Coverage Results" MODIFIED="1552690635943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$fadesim.coverage" NAME="fadesim Coverage Results" MODIFIED="1552977833662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/Papers relacionados" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$mimo_channel.coverage" NAME="mimo_channel Coverage Results" MODIFIED="1552088569370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$pyLMS3.coverage" NAME="pyLMS3 Coverage Results" MODIFIED="1553020299688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$adaptive_FIR.coverage" NAME="adaptive_FIR Coverage Results" MODIFIED="1553116617746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$graf_resp_frec.coverage" NAME="graf_resp_frec Coverage Results" MODIFIED="1553467889884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$pyLMS.coverage" NAME="pyLMS Coverage Results" MODIFIED="1552679596818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$sim_float_fse_t2.coverage" NAME="sim_float_fse_t2 Coverage Results" MODIFIED="1552944150144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/FACULTAD/mati y luci/Work/python/sim_float" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$simple_filter.coverage" NAME="simple_filter Coverage Results" MODIFIED="1552977420104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$ber_alignment_test.coverage" NAME="ber_alignment_test Coverage Results" MODIFIED="1553314104558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$PLL_Complex.coverage" NAME="PLL_Complex Coverage Results" MODIFIED="1553196491411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/help/backup/SimulacionPuntoFijo/Simulador_PLL" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$_fixedInt.coverage" NAME="_fixedInt Coverage Results" MODIFIED="1553556531258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/tool" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$adaptive_filtering.coverage" NAME="adaptive_filtering Coverage Results" MODIFIED="1553294985873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$theory_ber.coverage" NAME="theory_ber Coverage Results" MODIFIED="1553020492145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$sim_float_fse_t2_time.coverage" NAME="sim_float_fse_t2_time Coverage Results" MODIFIED="1553148498012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$QPSK_BER.coverage" NAME="QPSK_BER Coverage Results" MODIFIED="1552960396417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/FACULTAD/mati y luci/Work/python/sim_float" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$equalizer.coverage" NAME="equalizer Coverage Results" MODIFIED="1552095244383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$main.coverage" NAME="main Coverage Results" MODIFIED="1553048193566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$BER_LMS_filter.coverage" NAME="BER_LMS_filter Coverage Results" MODIFIED="1553499237681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$BER_curve.coverage" NAME="BER_curve Coverage Results" MODIFIED="1552961901222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/src/Python/SCM_QPSK/Metrics" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$naive_test.coverage" NAME="naive_test Coverage Results" MODIFIED="1553471254234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$new_test_adaptive.coverage" NAME="new_test_adaptive Coverage Results" MODIFIED="1552681006015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$test_SISO.coverage" NAME="test_SISO Coverage Results" MODIFIED="1552935463217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MIMO_impairments$sim_fse_t2_test_step.coverage" NAME="sim_fse_t2_test_step Coverage Results" MODIFIED="1553112218579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BER_simulation_float.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="91" column="4" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BER_simulation_fixed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/_fixedInt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="618" column="33" selection-start-line="618" selection-start-column="33" selection-end-line="618" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funciones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-912">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/channel_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2816">
+              <caret line="70" selection-start-line="70" selection-end-line="74" />
+              <folding>
+                <element signature="e#47#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adaptive_LMS_equalizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#220#1698#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DSP_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ch1</find>
+      <find>Real1x</find>
+      <find>refer</find>
+      <find>steps</find>
+      <find>title</find>
+      <find>TD</find>
+      <find>out</find>
+      <find>print</find>
+      <find>C_I</find>
+      <find>yk_I_vec</find>
+      <find>C_I_vec</find>
+      <find>symb</find>
+      <find>symbols</find>
+      <find>PRINT</find>
+      <find>sim_BER_noEqu</find>
+      <find>errors_Q_noeq</find>
+      <find>y_complex</find>
+      <find>ber</find>
+      <find>ber_I_1X</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ch1_complex</replace>
+      <replace>real1x</replace>
+      <replace>equalizer_taps</replace>
+      <replace>sim_BER_noEqu_SRRC</replace>
+      <replace>sim_BER_Q_NOISE_noEq</replace>
+      <replace>out_channel</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pyLMS3.py" />
+        <option value="$PROJECT_DIR$/main_mimo.py" />
+        <option value="$PROJECT_DIR$/pyLMS.py" />
+        <option value="$PROJECT_DIR$/setup_helpers.py" />
+        <option value="$PROJECT_DIR$/test_adaptive.py" />
+        <option value="$PROJECT_DIR$/new_test_adaptive.py" />
+        <option value="$PROJECT_DIR$/FIR_adaptive.py" />
+        <option value="$PROJECT_DIR$/test_SISO.py" />
+        <option value="$PROJECT_DIR$/tools/DSPtools.py" />
+        <option value="$PROJECT_DIR$/data_randomseed.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/padasip/filters/lms.py" />
+        <option value="$PROJECT_DIR$/pyLMS_new.py" />
+        <option value="G:/FACULTAD/mati y luci/Work/python/sim_float/sim_float_fse_t2.py" />
+        <option value="$PROJECT_DIR$/equalizer_for_impairments.py" />
+        <option value="$PROJECT_DIR$/LMS_filtering.py" />
+        <option value="G:/Tesis/src/Python/SCM_QPSK/Metrics/BER_curve.py" />
+        <option value="G:/Tesis/src/Python/SCM_QPSK/Metrics/ber_test.py" />
+        <option value="$PROJECT_DIR$/GaussianNoise.py" />
+        <option value="$PROJECT_DIR$/equalizer.py" />
+        <option value="$PROJECT_DIR$/filters_utils.py" />
+        <option value="$PROJECT_DIR$/pyLMS2.py" />
+        <option value="$PROJECT_DIR$/theory_ber.py" />
+        <option value="$PROJECT_DIR$/simple_filter.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/LMS_filter.py" />
+        <option value="$PROJECT_DIR$/LMS_adaptive_filter.py" />
+        <option value="$PROJECT_DIR$/adaptive_filters.py" />
+        <option value="$PROJECT_DIR$/../../Utils/ejemploFir.py" />
+        <option value="G:/Tesis/help/backup/SimulacionPuntoFijo/Simulador_PLL/PLL_Complex.py" />
+        <option value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float/sim_float_fse_t2_time.py" />
+        <option value="$PROJECT_DIR$/adaptive_filtering.py" />
+        <option value="$PROJECT_DIR$/ber_alignment_test.py" />
+        <option value="$PROJECT_DIR$/channel_generator.py" />
+        <option value="G:/Tesis/src/Python/SCM_QPSK/Metrics/qpsk_constelation_histogram.py" />
+        <option value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/sim_fse_t2_res_err_f_SNR.py" />
+        <option value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/tool/_fixedInt.py" />
+        <option value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/graf_resp_frec.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/commpy/__init__.py" />
+        <option value="$PROJECT_DIR$/naive_test.py" />
+        <option value="$PROJECT_DIR$/polarization_generator.py" />
+        <option value="$PROJECT_DIR$/MIMO_8x8.py" />
+        <option value="$PROJECT_DIR$/test_LMS.py" />
+        <option value="$PROJECT_DIR$/adaptive_FIR.py" />
+        <option value="$PROJECT_DIR$/BER_LMS_filter.py" />
+        <option value="$PROJECT_DIR$/BER_simulation_float.py" />
+        <option value="$PROJECT_DIR$/DSP_utils.py" />
+        <option value="$PROJECT_DIR$/adaptive_LMS_equalizer.py" />
+        <option value="$PROJECT_DIR$/funciones.py" />
+        <option value="$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/tool/_fixedInt.py" />
+        <option value="$PROJECT_DIR$/tools/_fixedInt.py" />
+        <option value="$PROJECT_DIR$/BER_simulation_fixed.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="863" />
+    <option name="y" value="100" />
+    <option name="width" value="622" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MIMO_impairments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIMO_impairments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.BER_simulation_fixed">
+    <configuration name="BER_LMS_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Tesis\PythonProject\MIMO_impairments\BER_simulation_float.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BER_simulation_fixed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Tesis\PythonProject\sim_MIMO\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BER_simulation_fixed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MIMO_8x8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MIMO_8x8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_fixedInt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Tesis\PythonProject\MIMO_simulation\venv2_7\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/tool" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/tool/_fixedInt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graf_resp_frec" type="PythonConfigurationType" factoryName="Python">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Tesis\PythonProject\sim_MIMO\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/graf_resp_frec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_LMS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MIMO_impairments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_LMS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.graf_resp_frec" />
+      <item itemvalue="Python.BER_LMS_filter" />
+      <item itemvalue="Python.MIMO_8x8" />
+      <item itemvalue="Python.test_LMS" />
+      <item itemvalue="Python.BER_simulation_fixed" />
+      <item itemvalue="Python._fixedInt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BER_simulation_fixed" />
+        <item itemvalue="Python._fixedInt" />
+        <item itemvalue="Python.BER_LMS_filter" />
+        <item itemvalue="Python.test_LMS" />
+        <item itemvalue="Python.MIMO_8x8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e96bf9be-1855-4292-bc21-72b335d1fffe" name="Default Changelist" comment="" />
+      <created>1552086921479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552086921479</updated>
+      <workItem from="1552086923999" duration="956000" />
+      <workItem from="1552087905363" duration="3463000" />
+      <workItem from="1552096263705" duration="5266000" />
+      <workItem from="1552419960419" duration="2683000" />
+      <workItem from="1552449832274" duration="1082000" />
+      <workItem from="1552503288100" duration="8648000" />
+      <workItem from="1552532659416" duration="3027000" />
+      <workItem from="1552597594798" duration="9105000" />
+      <workItem from="1552677889591" duration="6692000" />
+      <workItem from="1552933861032" duration="41571000" />
+      <workItem from="1552993895299" duration="22021000" />
+      <workItem from="1553107604135" duration="20387000" />
+      <workItem from="1553183172634" duration="17123000" />
+      <workItem from="1553284097015" duration="32409000" />
+      <workItem from="1553378910387" duration="4814000" />
+      <workItem from="1553462075092" duration="3598000" />
+      <workItem from="1553467516113" duration="15448000" />
+      <workItem from="1553553321617" duration="4336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202629000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1824" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13435374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.776644" weight="0.35325506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3216" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22335601" side_tool="true" visible="true" weight="0.35325506" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.17063493" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/adaptive_filters.py" />
+    <entry file="file://$PROJECT_DIR$/../../Utils/ejemploFir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#229#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slicer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1981">
+          <caret line="45" selection-start-line="45" selection-end-line="45" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theory_ber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#369#905#0" />
+            <element signature="e#947#1359#0" />
+            <element signature="e#1394#2697#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/r_cosine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-403">
+          <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/src/Python/SCM_QPSK/utils/rcosine_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/src/Python/SCM_QPSK/utils/qpsk_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/PythonProject/MIMO_simulation/DQPSK_with_filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3168">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/src/Python/SCM_QPSK/Metrics/qpsk_constelation_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/src/Python/SCM_QPSK/old files/ber_by_frames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/src/Python/SCM_QPSK/old files/ber_qpsk_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2304">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/sim_fse_t2_res_out_SNR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="328" column="11" selection-start-line="328" selection-start-column="11" selection-end-line="328" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/tool/_fixedInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="64" column="62" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/graf_resp_frec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/sim_fse_t2_res_err_f_SNR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_fixed/sim_fse_t2_res_out_f_SNR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/help/DSP/DSPPROCOM_LOPEZ_KLEINER/Repositorio/DSPPROCOM/SimulacionPuntoFlotante/simulacionPuntoFlotante.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/commpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/commpy/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1129">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naive_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ber_alignment_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="147" selection-start-line="147" selection-end-line="147" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MIMO_8x8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polarization_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_mimo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2740">
+          <caret line="65" column="44" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mimo_channel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plots/o1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plots/out_channel_coef.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adaptive_filtering.py" />
+    <entry file="file://$PROJECT_DIR$/adaptive_FIR.py" />
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float/sim_float_fse_t2_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1854">
+          <caret line="127" column="148" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="148" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float/sim_float_fse_t2_noise_dqpsk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6624">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_LMS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="230" column="59" lean-forward="true" selection-start-line="230" selection-start-column="2" selection-end-line="230" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float/sim_float_fse_t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Tesis/files FFE_frequency/FFEDF.git/Work/python/sim_float/sim_fse_t2_test_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5898">
+          <caret line="130" column="12" lean-forward="true" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/tool/_fixedInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/tool/bin2fixed.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/tool/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BER_simulation_float.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="91" column="4" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSP_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adaptive_LMS_equalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#220#1698#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/bin2fixed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/2d-convFijo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/tool/_fixedInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="232" column="64" selection-start-line="232" selection-start-column="64" selection-end-line="232" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2dconv-FPGA/src/py/Metrica/funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1888">
+          <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BER_simulation_fixed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/_fixedInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="618" column="33" selection-start-line="618" selection-start-column="33" selection-end-line="618" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channel_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2816">
+          <caret line="70" selection-start-line="70" selection-end-line="74" />
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
